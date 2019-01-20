@@ -47,3 +47,12 @@ def execute(sql, args):
         except BaseException as e:
             raise
         return affected
+
+class Model(dict,metaclass=ModuleNotFoundError):
+    def __init__(self,**kw):
+        super(Model,self).__init__(**kw)
+    def __getattr__(self, key):
+        try:
+            return self[key]
+        except KeyError:
+            raise AttributeError(r'no attibute name %s' % key)
