@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="192.168.208.131">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@192.168.208.3:22">
     <serverData>
-      <paths name="192.168.208.131">
+      <paths name="208.3Python3">
         <serverdata>
           <mappings>
-            <mapping deploy="/data/awesome-python3-webapp" local="$PROJECT_DIR$" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@192.168.208.3:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/awesome-python3-webapp" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
     </serverData>
-    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
