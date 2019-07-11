@@ -1,24 +1,18 @@
-girls = ['alice','bernice','clarice']
-boys = ['chris','arnold','bob']
-letterGirls = {}
-for girl in girls:
-    letterGirls.setdefault(girl[0],[]).append(girl)
-#字典推导
-squrts = { i:'{}的平方是{}'.format(i,i**2) for i in range(10)}
-print(squrts[8])
-def square(x):
-    '这是测试平方函数的注释'
-    return x*x
-print(square.__doc__)
-def print_params_4(x,y,z=3,*pospar,**keypar):
-    print(x,y,z)
-    print(pospar)
-    print(keypar)
-print_params_4(1,2,3,4,5,6,7,foo=1,bar=2)
-num1 = (1,2,3)
-num2 = (4,5,6)
+#  练习格式化输出字符串
+name = "小明"
+print("我的名字叫%s,请多多指教" % name)
 
-for n1,n2 in zip(num1,num2):
-    print(n1,":",n2)
+#  整型变量000001
+stu_no = 1
+print("我的学号是 %06d" % stu_no )
+
+#  浮点类型
+price,weight = 8.5,7.5
+money = price * weight
+print("苹果的单价是%.2f,买了%.2f 斤，总价是：%.2f" % (price,weight,money))
+
+#  定义一个百分比的数字 89.23%
+scale = 0.892353
+print("百分比数字为 %.2f%%" % (scale * 100))
 
 
