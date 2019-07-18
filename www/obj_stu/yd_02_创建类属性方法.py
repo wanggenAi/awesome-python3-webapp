@@ -9,11 +9,18 @@
 """
 class Cat():
     """这是一个猫类"""
-    def __init__(self):
+    def __init__(self,new_name):
         print("初始化方法")
         #  猫类的属性
-        self.name = "Tom"
+        self.name = new_name
+    def eat(self):
+        print("%s 爱吃鱼" % self.name)
 
 #  __init__方法是专门用来定义个类有哪些属性
-tom = Cat()
+tom = Cat("Tom")
 print(tom.name)
+tom.eat()
+
+lazy_cat = Cat("大懒猫")
+lazy_cat.eat()
+
