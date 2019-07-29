@@ -2,26 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5a40949-9dc6-4e04-a727-ef15b12ee7af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/www/file_stu/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/file_stu/README[复件]" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/file_stu/yd_01_读取文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/obj_stu/Exception/yd_01_异常的传递性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/obj_stu/Exception/yd_02_简单异常捕获.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/obj_stu/single_obj/single_lianxi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/obj_stu/single_obj/single_object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/obj_stu/yd_11_游戏练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/obj_stu/yd_11_静态方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/study/module_exec/random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/study/module_exec/yd_01_模块1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/study/module_exec/yd_01_模块2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/study/module_exec/yd_01_模块导入练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/study/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/study/yd_mssage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/study/yd_mssage/receive_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/study/yd_mssage/send_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/again.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/bomb_supply.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/bullet1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/bullet2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/bullet_supply.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy1_down1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy1_down2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy1_down3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy1_down4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy2_down1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy2_down2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy2_down3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy2_down4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy2_hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy3_down1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy3_down2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy3_down3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy3_down4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy3_down5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy3_down6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy3_hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy3_n1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/enemy3_n2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/life.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/me1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/me2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/me_destroy_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/me_destroy_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/me_destroy_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/me_destroy_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/pause_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/pause_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/resume_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/images/resume_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/test_pygame/plane_sprites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_01_练习pygame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_02_Rect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_03_setmode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/file_stu/bigfile_copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/awesome-python3-webapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/awesome-python3-webapp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/obj_stu/yd_10_类的静态方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/www/obj_stu/yd_10_类的方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/diaoyong.py" beforeDir="false" afterPath="$PROJECT_DIR$/www/diaoyong.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,17 +76,22 @@
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_01_.coverage" NAME="yd_01_读取文件 Coverage Results" MODIFIED="1563798982339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/file_stu" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$hm_06_.coverage" NAME="hm_06_字典的应用场景 Coverage Results" MODIFIED="1562834612914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/study" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$random.coverage" NAME="random Coverage Results" MODIFIED="1563596673086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/study/module_exec" />
-    <SUITE FILE_PATH="coverage/awesome_python3_webapp$diaoyong.coverage" NAME="diaoyong Coverage Results" MODIFIED="1562825425935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$diaoyong.coverage" NAME="diaoyong Coverage Results" MODIFIED="1563802180211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$var_address.coverage" NAME="var_address Coverage Results" MODIFIED="1562917871769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/var_jinjie" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_02_Rect.coverage" NAME="yd_02_Rect Coverage Results" MODIFIED="1563862957978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_www/game_fly/test_pygame" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_03_setmode.coverage" NAME="yd_03_setmode Coverage Results" MODIFIED="1564052570273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_www/game_fly/test_pygame" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$hm_07_.coverage" NAME="hm_07_字符串判断方法 Coverage Results" MODIFIED="1562849069617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/study" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_11_.coverage" NAME="yd_11_静态方法 Coverage Results" MODIFIED="1563507044824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/obj_stu" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$practise.coverage" NAME="practise Coverage Results" MODIFIED="1562825228024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$single_lianxi.coverage" NAME="single_lianxi Coverage Results" MODIFIED="1563523695612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/obj_stu/single_obj" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_07_.coverage" NAME="yd_07_多继承 Coverage Results" MODIFIED="1563414338148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/obj_stu" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_03_.coverage" NAME="yd_03_面向对象练习 Coverage Results" MODIFIED="1563261513424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/obj_stu" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_01_pygame.coverage" NAME="yd_01_练习pygame Coverage Results" MODIFIED="1563860551167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_www/game_fly/test_pygame" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$hm_02_.coverage" NAME="hm_02_打印分隔符 Coverage Results" MODIFIED="1562829723410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/study" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$.coverage" NAME="士兵突击 Coverage Results" MODIFIED="1563265675640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/obj_stu/house_pro" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$bigfile_copy.coverage" NAME="bigfile_copy Coverage Results" MODIFIED="1563799842410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/file_stu" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$hm_03_.coverage" NAME="hm_03_数组练习 Coverage Results" MODIFIED="1562833200623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/study" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$plane_sprites.coverage" NAME="plane_sprites Coverage Results" MODIFIED="1564034798491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_www/game_fly/test_pygame" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$hm_05_.coverage" NAME="hm_05_字典遍历 Coverage Results" MODIFIED="1562834515012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/study" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_05_.coverage" NAME="yd_05_私有属性和方法 Coverage Results" MODIFIED="1563413751967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/obj_stu" />
   </component>
@@ -65,17 +99,21 @@
     <session id="-1755938878">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.20" value="3" />
-          <entry key="project.open.time.21" value="4" />
-          <entry key="project.open.time.22" value="4" />
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.20" value="5" />
+          <entry key="project.open.time.21" value="5" />
+          <entry key="project.open.time.22" value="5" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.84" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -86,57 +124,53 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="README" value="4" />
-          <entry key="README[复件]" value="1" />
-          <entry key="py" value="70" />
+          <entry key="README[复件]" value="2" />
+          <entry key="png" value="5" />
+          <entry key="py" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="70" />
+          <entry key="Image" value="5" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="README" value="68" />
           <entry key="dummy" value="1" />
-          <entry key="py" value="17782" />
+          <entry key="py" value="20109" />
           <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="93" />
-          <entry key="Python" value="17782" />
+          <entry key="Python" value="20109" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/file_stu/README">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/file_stu/README[复件]">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/file_stu/yd_01_读取文件.py">
+        <entry file="file://$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_03_setmode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="374">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new_www/game_fly/test_pygame/plane_sprites.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -171,13 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/www/study/hm_06_字典的应用场景.py" />
-        <option value="$PROJECT_DIR$/www/study/hm_07_字符串判断方法.py" />
-        <option value="$PROJECT_DIR$/www/study/hm_08_切片字符串练习.py" />
-        <option value="$PROJECT_DIR$/www/study/yd_01_内置函数.py" />
-        <option value="$PROJECT_DIR$/www/study/yd_01_字典查找.py" />
-        <option value="$PROJECT_DIR$/www/card_managment/cards_main.py" />
-        <option value="$PROJECT_DIR$/www/card_managment/cards_tools.py" />
         <option value="$PROJECT_DIR$/www/var_jinjie/var_address.py" />
         <option value="$PROJECT_DIR$/www/study/yd_02_全局变量练习.py" />
         <option value="$PROJECT_DIR$/www/study/yd_03_多个返回值.py" />
@@ -222,6 +249,13 @@
         <option value="$PROJECT_DIR$/www/study/setup.py" />
         <option value="$PROJECT_DIR$/www/file_stu/README" />
         <option value="$PROJECT_DIR$/www/file_stu/yd_01_读取文件.py" />
+        <option value="$PROJECT_DIR$/www/file_stu/README[复件]" />
+        <option value="$PROJECT_DIR$/www/file_stu/bigfile_copy.py" />
+        <option value="$PROJECT_DIR$/www/diaoyong.py" />
+        <option value="$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_01_练习pygame.py" />
+        <option value="$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_02_Rect.py" />
+        <option value="$PROJECT_DIR$/new_www/game_fly/test_pygame/plane_sprites.py" />
+        <option value="$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_03_setmode.py" />
       </list>
     </option>
   </component>
@@ -231,9 +265,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="205" />
-    <option name="y" value="75" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="395" />
+    <option name="y" value="90" />
     <option name="width" value="1430" />
     <option name="height" value="905" />
   </component>
@@ -245,6 +279,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="awesome-python3-webapp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="awesome-python3-webapp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="new_www" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,31 +305,44 @@
             <path>
               <item name="awesome-python3-webapp" type="b2602c69:ProjectViewProjectNode" />
               <item name="awesome-python3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="new_www" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="awesome-python3-webapp" type="b2602c69:ProjectViewProjectNode" />
               <item name="awesome-python3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="file_stu" type="462c0819:PsiDirectoryNode" />
+              <item name="new_www" type="462c0819:PsiDirectoryNode" />
+              <item name="game_fly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="awesome-python3-webapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/ZWorkProject/python_pro/workspace/learn/awesome-python3-webapp/www/var_jinjie/yd_02_元组和字典的拆包.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="awesome-python3-webapp" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="awesome-python3-webapp" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\new_www\game_fly" />
+      <recent name="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\new_www\game_fly\test_pygame" />
       <recent name="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\www\file_stu" />
       <recent name="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\www\study\module_exec" />
     </key>
@@ -296,7 +359,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.yd_01_读取文件">
+  <component name="RunManager" selected="Python.yd_03_setmode">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="awesome-python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,7 +382,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="random" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="diaoyong" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="awesome-python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,12 +390,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www/study/module_exec" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/study/module_exec/random.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/diaoyong.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,7 +404,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="single_lianxi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="plane_sprites" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="awesome-python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,100 +412,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www/obj_stu/single_obj" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_www/game_fly/test_pygame" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/obj_stu/single_obj/single_lianxi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="single_object" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="awesome-python3-webapp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www/obj_stu/single_obj" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/obj_stu/single_obj/single_object.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="yd_01_简单异常捕获" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="awesome-python3-webapp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www/obj_stu/Exception" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\www\obj_stu\Exception\yd_02_简单异常捕获.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="yd_01_读取文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="awesome-python3-webapp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www/file_stu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/file_stu/yd_01_读取文件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="yd_01_模块导入练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="awesome-python3-webapp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www/study/module_exec" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/study/module_exec/yd_01_模块导入练习.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_www/game_fly/test_pygame/plane_sprites.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -517,20 +492,87 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="yd_01_练习pygame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="awesome-python3-webapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_www/game_fly/test_pygame" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_01_练习pygame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yd_02_Rect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="awesome-python3-webapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_www/game_fly/test_pygame" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_02_Rect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yd_03_setmode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="awesome-python3-webapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_www/game_fly/test_pygame" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_03_setmode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.single_object" />
-      <item itemvalue="Python.single_lianxi" />
-      <item itemvalue="Python.yd_01_简单异常捕获" />
-      <item itemvalue="Python.random" />
-      <item itemvalue="Python.yd_01_读取文件" />
+      <item itemvalue="Python.yd_01_模块导入练习" />
+      <item itemvalue="Python.diaoyong" />
+      <item itemvalue="Python.yd_01_练习pygame" />
+      <item itemvalue="Python.yd_02_Rect" />
+      <item itemvalue="Python.yd_03_setmode" />
+      <item itemvalue="Python.plane_sprites" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.yd_01_读取文件" />
-        <item itemvalue="Python.random" />
-        <item itemvalue="Python.single_object" />
-        <item itemvalue="Python.yd_01_简单异常捕获" />
-        <item itemvalue="Python.single_lianxi" />
+        <item itemvalue="Python.yd_03_setmode" />
+        <item itemvalue="Python.plane_sprites" />
+        <item itemvalue="Python.yd_02_Rect" />
+        <item itemvalue="Python.yd_01_练习pygame" />
+        <item itemvalue="Python.diaoyong" />
       </list>
     </recent_temporary>
   </component>
@@ -608,7 +650,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563413266557</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="面向对象02">
+      <created>1563799031412</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1563799031412</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -629,15 +678,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="164" y="60" width="1144" height="724" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25598526" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21045576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32881355" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.23986487" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49723756" weight="0.20113315" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30508474" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -645,10 +694,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.28045326" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50276244" side_tool="true" weight="0.32719547" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32881355" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32881355" />
-      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.49932975" weight="0.3277027" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3277027" />
+      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.49723756" visible="true" weight="0.32719547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -674,76 +723,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="面向对象02" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/study/hm_08_切片字符串练习.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/study/yd_01_内置函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/study/yd_01_字典查找.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/card_managment/cards_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/card_managment/cards_tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="61" column="15" lean-forward="true" selection-start-line="61" selection-start-column="15" selection-end-line="61" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/var_jinjie/var_address.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/study/yd_02_全局变量练习.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/study/yd_03_多个返回值.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/study/yd_04_可变和不可变参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/study/yd_05_+=练习.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/study/yd_06_缺省参数的练习.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -862,18 +841,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/Orm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-858" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/obj_stu/yd_10_类的方法.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -977,9 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -990,17 +954,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/file_stu/README[复件]">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/file_stu/yd_01_读取文件.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/file_stu/bigfile_copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/Orm.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/file_stu/README[复件]">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/diaoyong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_02_Rect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_01_练习pygame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_www/game_fly/images/bullet2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_www/game_fly/images/bullet1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_www/game_fly/images/background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_www/game_fly/images/me1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_03_setmode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_www/game_fly/test_pygame/plane_sprites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
         </state>
       </provider>
     </entry>
