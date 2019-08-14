@@ -5,26 +5,24 @@ import time
 class Classmate(object):
     def __init__(self):
         self.names = list()
+        self.current_num = 0
 
     def add(self,name):
         self.names.append(name)
 
     def __iter__(self):
         """如果想要一个对象成为一个 可以迭代的对象 ，就必须实现__iter__方法"""
-        return ClassIterator(self)
-
-class ClassIterator(object):
-
-    def __init__(self,obj):
-        self.obj = obj
-        self.iter = iter(obj.names)
-
-    def __iter__(self):
-         pass
+        return self
 
     def __next__(self):
-        # 或者抛出 StopIteration 异常也会告诉for 停止迭代
-        return next(self.iter)
+        if self.current_num < len(self.names):
+            name = self.names[self.current_num]
+            self.current_num += 1
+            return name
+        else:
+            raise StopIteration
+
+
 
 '''
 for temp in xxx_obj:
@@ -39,8 +37,6 @@ cm.add("老王")
 cm.add("类似")
 cm.add("zhangsan")
 cm.add("小鬼")
-print("判断classmate是否是可以迭代的对象：", isinstance(cm,Iterable))
-print("判断claI是否是迭代器对象Iterator：",isinstance(claI,Iterator))
 
 for name in cm:
     print(name)
