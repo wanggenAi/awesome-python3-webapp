@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e4f0074d-00f0-44f1-ae82-abd0a1e162f9" name="208.3Python3" url="http://192.168.208.3">
+        <fileTransfer host="192.168.208.3" port="22" rootFolder="/data/awesome-python3-webapp" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
