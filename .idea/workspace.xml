@@ -2,10 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5a40949-9dc6-4e04-a727-ef15b12ee7af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/__mro__继承的作用多个父类方法只会执行一个.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/deepqian_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/property用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/01-with-上下文管理器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/bibao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/mysql_database/01-connectdatabase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/mysql_database/02-面向对象思想来实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/01-多进程-web服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/02-web服务器里集成了解析动态请求的功能.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/mini_frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/wsgi_mini_frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/js/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/js/jquery-1.12.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/js/jquery.animate-colors-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/js/jquery.animate-colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/js/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/js/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/js/swiper.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/js/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/static/js/zepto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/templates/center.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/web_server.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/awesome-python3-webapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/awesome-python3-webapp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/improve/gaojiyufa/deepqian_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/improve/gaojiyufa/deepqian_copy.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +50,9 @@
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_09_.coverage" NAME="yd_09_类属性和方法 Coverage Results" MODIFIED="1563422030269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/obj_stu" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1564468012649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_www/game_fly" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$house_item.coverage" NAME="house_item Coverage Results" MODIFIED="1563264746772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/obj_stu/house_pro" />
-    <SUITE FILE_PATH="coverage/awesome_python3_webapp$02_2.coverage" NAME="02-生成器2 Coverage Results" MODIFIED="1565603278558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network/process_tasks" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$01_connectdatabase.coverage" NAME="01-connectdatabase Coverage Results" MODIFIED="1566369523886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/mysql_database" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$02_2.coverage" NAME="02-生成器2 Coverage Results" MODIFIED="1566439347338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network/process_tasks" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$02_.coverage" NAME="02-面向对象思想来实现 Coverage Results" MODIFIED="1566372683205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/mysql_database" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$hm_06_.coverage" NAME="hm_06_字典的应用场景 Coverage Results" MODIFIED="1562834612914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/study" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$tcp_file_download_client.coverage" NAME="tcp_file_download_client Coverage Results" MODIFIED="1565054782928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$06___.coverage" NAME="06-单进程-单线程-非堵塞长链接 Coverage Results" MODIFIED="1565942761253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network/httpweb" />
@@ -33,6 +61,7 @@
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_11_.coverage" NAME="yd_11_静态方法 Coverage Results" MODIFIED="1563507044824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/obj_stu" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$01_gevent.coverage" NAME="01-gevent多任务练习 Coverage Results" MODIFIED="1565667139124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network/process_tasks" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$practise.coverage" NAME="practise Coverage Results" MODIFIED="1562825228024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$01_with_.coverage" NAME="01-with-上下文管理器 Coverage Results" MODIFIED="1566369207577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/gaojiyufa" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$single_lianxi.coverage" NAME="single_lianxi Coverage Results" MODIFIED="1563523695612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/obj_stu/single_obj" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$02_sub.coverage" NAME="02-sub利用函数替换字符串匹配 Coverage Results" MODIFIED="1565753900966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network/regx" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$04_gevent.coverage" NAME="04-gevent图片下载 Coverage Results" MODIFIED="1565667817611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network/process_tasks" />
@@ -41,6 +70,7 @@
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$bigfile_copy.coverage" NAME="bigfile_copy Coverage Results" MODIFIED="1563799842410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/file_stu" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$01_httphtml.coverage" NAME="01-http返回固定html页面 Coverage Results" MODIFIED="1565921986398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network/httpweb" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_04_thread.coverage" NAME="yd_04_继承thread类实现多线程 Coverage Results" MODIFIED="1565062103142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$01__web.coverage" NAME="01-多进程-web服务器 Coverage Results" MODIFIED="1566439356461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network/httpweb/wsgi" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$03_.coverage" NAME="03-进程池 Coverage Results" MODIFIED="1565158798562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network/process_tasks" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$hm_05_.coverage" NAME="hm_05_字典遍历 Coverage Results" MODIFIED="1562834515012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/study" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_05_.coverage" NAME="yd_05_线程共享全局变量 Coverage Results" MODIFIED="1565070722047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network" />
@@ -53,6 +83,7 @@
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$Unittests_in_yd_10__py.coverage" NAME="Unittests in yd_10_类方法（静态方法）.py Coverage Results" MODIFIED="1563504281926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/obj_stu" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_09_udp.coverage" NAME="yd_09_多任务udp聊天器 Coverage Results" MODIFIED="1565074659050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_08_.coverage" NAME="yd_08_使用互斥所解决资源竞争的问题 Coverage Results" MODIFIED="1565072280946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$02_web.coverage" NAME="02-web服务器里集成了解析动态请求的功能 Coverage Results" MODIFIED="1566528190823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network/httpweb/wsgi" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_05___.coverage" NAME="yd_05_+=练习 Coverage Results" MODIFIED="1562987051006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/study" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$hm_04_.coverage" NAME="hm_04_字典练习 Coverage Results" MODIFIED="1562833783470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/study" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1562902998450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/card_managment" />
@@ -85,27 +116,28 @@
     <session id="-1755938878">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="35" />
+          <entry key="project.closed" value="38" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.20" value="8" />
+          <entry key="project.open.time.20" value="10" />
           <entry key="project.open.time.21" value="7" />
           <entry key="project.open.time.22" value="8" />
           <entry key="project.open.time.23" value="3" />
           <entry key="project.open.time.24" value="2" />
-          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.65" value="1" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.84" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="42" />
+          <entry key="project.opened" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -115,67 +147,49 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="Profile stats" value="1" />
           <entry key="README" value="4" />
           <entry key="README[复件]" value="2" />
-          <entry key="html" value="2" />
+          <entry key="conf" value="1" />
+          <entry key="html" value="7" />
           <entry key="png" value="5" />
-          <entry key="py" value="147" />
+          <entry key="py" value="181" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="7" />
           <entry key="Image" value="5" />
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="147" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Profiler Session" value="1" />
+          <entry key="Python" value="181" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="README" value="68" />
-          <entry key="dummy" value="22" />
-          <entry key="py" value="42727" />
-          <entry key="txt" value="59" />
+          <entry key="conf" value="62" />
+          <entry key="dummy" value="73" />
+          <entry key="html" value="18" />
+          <entry key="py" value="46977" />
+          <entry key="txt" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="149" />
-          <entry key="Python" value="42727" />
+          <entry key="HTML" value="18" />
+          <entry key="PLAIN_TEXT" value="277" />
+          <entry key="Python" value="46977" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/improve/gaojiyufa/property用法.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/improve/network/httpweb/02-使用多进程完成http服务器.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1166">
-              <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/improve/network/httpweb/06-单进程-单线程-非堵塞长链接.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-308">
-              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/improve/gaojiyufa/bibao.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -194,6 +208,7 @@
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>utf8</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -208,20 +223,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/www/file_stu/bigfile_copy.py" />
-        <option value="$PROJECT_DIR$/www/diaoyong.py" />
-        <option value="$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_01_练习pygame.py" />
-        <option value="$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_02_Rect.py" />
-        <option value="$PROJECT_DIR$/new_www/game_fly/test_pygame/plane_sprites.py" />
-        <option value="$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_03_setmode.py" />
-        <option value="$PROJECT_DIR$/new_www/game_fly/plane_sprites.py" />
-        <option value="$PROJECT_DIR$/new_www/game_fly/plane_main.py" />
-        <option value="$PROJECT_DIR$/improve/network/socket.py" />
-        <option value="$PROJECT_DIR$/improve/network/socket_practise.py" />
-        <option value="$PROJECT_DIR$/improve/network/tcp_socket.py" />
-        <option value="$PROJECT_DIR$/improve/network/tcp_socket_client.py" />
-        <option value="$PROJECT_DIR$/improve/network/tcp_socket_server.py" />
-        <option value="$PROJECT_DIR$/improve/network/tcp_file_download_server.py" />
         <option value="$PROJECT_DIR$/improve/network/tcp_file_download_client.py" />
         <option value="$PROJECT_DIR$/improve/network/yd_01_没有多任务.py" />
         <option value="$PROJECT_DIR$/improve/network/yd_02_使用多线程示例.py" />
@@ -259,6 +260,20 @@
         <option value="$PROJECT_DIR$/improve/gaojiyufa/deepqian_copy.py" />
         <option value="$PROJECT_DIR$/improve/gaojiyufa/__mro__继承的作用多个父类方法只会执行一个.py" />
         <option value="$PROJECT_DIR$/improve/gaojiyufa/property用法.py" />
+        <option value="$PROJECT_DIR$/improve/gaojiyufa/01-with-上下文管理器.py" />
+        <option value="$PROJECT_DIR$/improve/mysql_database/01-connectdatabase.py" />
+        <option value="$PROJECT_DIR$/improve/mysql_database/02-面向对象思想来实现.py" />
+        <option value="$PROJECT_DIR$/improve/gaojiyufa/out.txt" />
+        <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/01-多进程-web服务器.py" />
+        <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/03-将web服务器和逻辑处理的代码分开.py" />
+        <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/mini_frame.py" />
+        <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/wsgi_mini_frame.py" />
+        <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/wsgi_mini_frame.py" />
+        <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/templates/index.html" />
+        <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/mini_frame.py" />
+        <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/web_server.conf" />
+        <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/02-web服务器里集成了解析动态请求的功能.py" />
+        <option value="$PROJECT_DIR$/improve/gaojiyufa/bibao.py" />
       </list>
     </option>
   </component>
@@ -282,6 +297,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="awesome-python3-webapp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="awesome-python3-webapp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="new_www" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -300,40 +331,6 @@
               <item name="improve" type="462c0819:PsiDirectoryNode" />
               <item name="gaojiyufa" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="awesome-python3-webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="awesome-python3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="improve" type="462c0819:PsiDirectoryNode" />
-              <item name="network" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="awesome-python3-webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="awesome-python3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="improve" type="462c0819:PsiDirectoryNode" />
-              <item name="network" type="462c0819:PsiDirectoryNode" />
-              <item name="httpweb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="awesome-python3-webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="awesome-python3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="awesome-python3-webapp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="awesome-python3-webapp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="new_www" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -343,11 +340,11 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/ZWorkProject/python_pro/workspace/learn/awesome-python3-webapp/www/var_jinjie/yd_02_元组和字典的拆包.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/improve/network/httpweb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
-    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/improve/network/httpweb" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -358,12 +355,16 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\improve\network\httpweb\wsgi\dynamic" />
+      <recent name="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\improve\network\httpweb\wsgi" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\improve\network\httpweb\wsgi" />
       <recent name="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\improve\network\httpweb" />
       <recent name="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\improve\network\process_tasks" />
       <recent name="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\improve\network" />
       <recent name="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\new_www\game_fly" />
-      <recent name="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\new_www\game_fly\test_pygame" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -378,8 +379,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.__mro__继承的作用多个父类方法只会执行一个">
-    <configuration name="01-http返回固定html页面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.02-web服务器里集成了解析动态请求的功能">
+    <configuration name="01-多进程-web服务器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="awesome-python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -387,12 +388,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/network/httpweb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/network/httpweb/wsgi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/network/httpweb/01-http返回固定html页面.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/network/httpweb/wsgi/01-多进程-web服务器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -401,7 +402,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04-使用gevent实现http服务器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="01-connectdatabase" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="awesome-python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -409,12 +410,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/network/httpweb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/mysql_database" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/network/httpweb/04-使用gevent实现http服务器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/mysql_database/01-connectdatabase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -423,7 +424,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05-单进程单线程-非堵塞实现" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02-面向对象思想来实现" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="awesome-python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -431,12 +432,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/network/httpweb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/mysql_database" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/network/httpweb/05-单进程单线程-非堵塞实现.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/mysql_database/02-面向对象思想来实现.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -445,7 +446,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06-单进程-单线程-非堵塞长链接" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02-生成器2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="awesome-python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -453,12 +454,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/network/httpweb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/network/process_tasks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/network/httpweb/06-单进程-单线程-非堵塞长链接.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/network/process_tasks/02-生成器2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -467,7 +468,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="__mro__继承的作用多个父类方法只会执行一个" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02-web服务器里集成了解析动态请求的功能" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="awesome-python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -475,12 +476,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/gaojiyufa" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/network/httpweb/wsgi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/gaojiyufa/__mro__继承的作用多个父类方法只会执行一个.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/network/httpweb/wsgi/02-web服务器里集成了解析动态请求的功能.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -512,19 +513,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.01-http返回固定html页面" />
-      <item itemvalue="Python.04-使用gevent实现http服务器" />
-      <item itemvalue="Python.05-单进程单线程-非堵塞实现" />
-      <item itemvalue="Python.06-单进程-单线程-非堵塞长链接" />
-      <item itemvalue="Python.__mro__继承的作用多个父类方法只会执行一个" />
+      <item itemvalue="Python.01-connectdatabase" />
+      <item itemvalue="Python.02-面向对象思想来实现" />
+      <item itemvalue="Python.01-多进程-web服务器" />
+      <item itemvalue="Python.02-生成器2" />
+      <item itemvalue="Python.02-web服务器里集成了解析动态请求的功能" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.__mro__继承的作用多个父类方法只会执行一个" />
-        <item itemvalue="Python.06-单进程-单线程-非堵塞长链接" />
-        <item itemvalue="Python.05-单进程单线程-非堵塞实现" />
-        <item itemvalue="Python.04-使用gevent实现http服务器" />
-        <item itemvalue="Python.01-http返回固定html页面" />
+        <item itemvalue="Python.02-web服务器里集成了解析动态请求的功能" />
+        <item itemvalue="Python.01-多进程-web服务器" />
+        <item itemvalue="Python.02-生成器2" />
+        <item itemvalue="Python.02-面向对象思想来实现" />
+        <item itemvalue="Python.01-connectdatabase" />
       </list>
     </recent_temporary>
   </component>
@@ -651,7 +652,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566177914916</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="单进程单线程，使用epoll模式开发网站">
+      <created>1566353318074</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1566353318074</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -673,14 +681,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26876676" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.288874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32881355" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49642217" weight="0.28611898" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49642217" visible="true" weight="0.34844193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30311614" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -691,7 +698,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5033512" side_tool="true" weight="0.27053824" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32881355" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3277027" />
-      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.4966488" weight="0.27053824" />
+      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.4966488" weight="0.26770538" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -721,6 +728,21 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/improve/network/httpweb/wsgi/01-多进程-web服务器.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/improve/network/httpweb/wsgi/01-多进程-web服务器.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -731,121 +753,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/new_www/game_fly/images/me1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_www/game_fly/test_pygame/yd_03_setmode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_www/game_fly/test_pygame/plane_sprites.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_www/game_fly/plane_sprites.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="93" column="19" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_www/game_fly/plane_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/tcp_socket_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/socket_practise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/tcp_socket_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/tcp_file_download_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/tcp_file_download_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/yd_01_没有多任务.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/yd_02_使用多线程示例.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/yd_03_查看线程数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/yd_04_继承thread类实现多线程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/yd_05_线程共享全局变量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/yd_06_共享全局变量的问题-资源竞争.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/yd_07_使用互斥所解决资源竞争的问题.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/improve/network/yd_09_多任务udp聊天器.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -857,13 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/process_tasks/02-多进程间通过queue来实现进程之间的通信.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -885,13 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/process_tasks/02-生成器2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -942,20 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1512347166/-1506120977/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="190" selection-start-line="190" selection-end-line="190" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1512347166/-1506120977/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
         </state>
       </provider>
     </entry>
@@ -1035,24 +914,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/improve/gaojiyufa/deepqian_copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/improve/gaojiyufa/__mro__继承的作用多个父类方法只会执行一个.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1078">
           <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/gaojiyufa/property用法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1065,13 +930,161 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/improve/network/httpweb/06-单进程-单线程-非堵塞长链接.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        <state relative-caret-position="-359">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/gaojiyufa/out.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/mysql_database/01-connectdatabase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="16" selection-end-line="54" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/mysql_database/02-面向对象思想来实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/network/process_tasks/02-多进程间通过queue来实现进程之间的通信.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1512347166/-1506120977/encodings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/gaojiyufa/property用法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/network/process_tasks/02-生成器2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/gaojiyufa/deepqian_copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1512347166/-1506120977/multiprocessing/popen_fork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1512347166/-1506120977/multiprocessing/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1042">
+          <caret line="248" selection-start-line="248" selection-end-line="248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/01-多进程-web服务器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1512347166/-1506120977/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1512347166/-1506120977/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/templates/center.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-847" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-583">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/gaojiyufa/01-with-上下文管理器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/mini_frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/wsgi_mini_frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/mini_frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/web_server.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/02-web服务器里集成了解析动态请求的功能.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="41" column="53" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/gaojiyufa/bibao.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
