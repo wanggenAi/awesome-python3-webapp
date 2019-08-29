@@ -1,11 +1,11 @@
-import logging; logging.basicConfig(level=logging.INFO)
+import logging_test; logging_test.basicConfig(level=logging_test.INFO)
 
 import aiomysql
 
 import asyncio,os,json,time
 
 def create_pool(loop,**kw):
-    logging.info('create database connection pool...')
+    logging_test.info('create database connection pool...')
     global __pool
     __pool = yield from aiomysql.create_pool(
         host=kw.get('host', 'localhost'),
@@ -22,7 +22,7 @@ def create_pool(loop,**kw):
 
 @asyncio.coroutine
 def select(sql, args, size=None):
-    logging.info(sql,args)
+    logging_test.info(sql, args)
     global __pool
     with (yield from __pool) as conn:
         cur = yield from conn.cursor(aiomysql.DictCursor)
@@ -32,12 +32,12 @@ def select(sql, args, size=None):
         else:
             rs = yield from cur.fetchall()
         yield from cur.close()
-        logging.info('rows returned: %s' % len(rs))
+        logging_test.info('rows returned: %s' % len(rs))
         return rs
 
 @asyncio.coroutine
 def execute(sql, args):
-    logging.info(sql, args)
+    logging_test.info(sql, args)
     with (yield from __pool) as conn:
         try:
             cur = yield from conn.cursor()

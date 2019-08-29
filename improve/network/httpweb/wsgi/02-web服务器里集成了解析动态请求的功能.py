@@ -33,10 +33,10 @@ class WSGIServer(object):
         if ret:
             file_name = ret.group(1)
             if file_name == "/":
-                file_name = "/index.py"
+                file_name = "/index.html"
             print(file_name)
-        # 如果请求的资源不是以py结尾，则是静态资源
-        if not file_name.endswith(".py"):
+        # 如果请求的资源不是以html结尾，则是静态资源
+        if not file_name.endswith(".html"):
                 # 打开html文件
             try:
                 print(self.config_info["static_path"])
