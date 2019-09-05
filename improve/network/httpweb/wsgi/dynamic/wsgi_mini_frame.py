@@ -1,6 +1,7 @@
 from pymysql import *
 import re
 import urllib.parse
+import logging
 
 URL_FUNC_DICT = dict()
 
@@ -192,6 +193,11 @@ def show_update_page(ret):
 def application(environ, start_response):
     start_response('200 OK', [('Content-Type', 'text/html;charset=utf-8')])
     file_name = environ['PATH_INFO']
+    logging.basicConfig(level=logging.INFO,
+                        filename='./log.txt',
+                        filemode='a',
+                        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    logging.info("访问的是，%s" % file_name)
     try:
         # func = URL_FUNC_DICT[file_name]
         # return URL_FUNC_DICT[file_name]()
@@ -205,6 +211,7 @@ def application(environ, start_response):
             if ret:
                 return func(ret)
         else:
+            logging.warning('没有对应的函数。。')
             return "请求的url %s 并没有对应的函数.." % file_name
     except Exception as ret:
         return '产生了异常%s' % ret

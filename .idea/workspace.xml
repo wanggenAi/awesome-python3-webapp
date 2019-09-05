@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5a40949-9dc6-4e04-a727-ef15b12ee7af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/zhuangshiqi/01-装饰器总结demo练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/zhuangshiqi/02-带有参数的装饰器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/zhuangshiqi/class_zhuangshiqi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/zhuangshiqi/test_zhuangshiqi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/zhuangshiqi/zhuangshiqi_budingchangcanshu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/zhuangshiqi/zhuangshiqi_canshu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/zhuangshiqi/zhuangshiqi_duoduiyihanshu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/zhuangshiqi/zhuangshiqi_fanhuizhi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/zhuangshiqi/zhuangshiqi_lijie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/logging_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/templates/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/gaojiyufa/yuanlei.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve/mysql_database/orm_数据库对象操作/orm_realize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ttst.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/improve/gaojiyufa/bibao.py" beforeDir="false" afterPath="$PROJECT_DIR$/improve/gaojiyufa/bibao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/improve/network/httpweb/wsgi/02-web服务器里集成了解析动态请求的功能.py" beforeDir="false" afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/02-web服务器里集成了解析动态请求的功能.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/wsgi_mini_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/wsgi_mini_frame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/improve/network/httpweb/wsgi/templates/center.html" beforeDir="false" afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/templates/center.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/improve/network/httpweb/wsgi/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/improve/network/httpweb/wsgi/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/Orm.py" beforeDir="false" afterPath="$PROJECT_DIR$/www/Orm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/www/app.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,8 +74,10 @@
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_01_.coverage" NAME="yd_01_没有多任务 Coverage Results" MODIFIED="1565057419765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$04_.coverage" NAME="04-文件夹进程池拷贝器 Coverage Results" MODIFIED="1565159580784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network/process_tasks" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$0_2.coverage" NAME="0-迭代器2 Coverage Results" MODIFIED="1565579586175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network/process_tasks" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$yuanlei.coverage" NAME="yuanlei Coverage Results" MODIFIED="1567478758592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/gaojiyufa" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$random.coverage" NAME="random Coverage Results" MODIFIED="1563596673086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/study/module_exec" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$diaoyong.coverage" NAME="diaoyong Coverage Results" MODIFIED="1563802180211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www" />
+    <SUITE FILE_PATH="coverage/awesome_python3_webapp$orm_realize.coverage" NAME="orm_realize Coverage Results" MODIFIED="1567495611325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/mysql_database/orm_数据库对象操作" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$04_geventhttp.coverage" NAME="04-使用gevent实现http服务器 Coverage Results" MODIFIED="1565925875770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/improve/network/httpweb" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$var_address.coverage" NAME="var_address Coverage Results" MODIFIED="1562917871769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www/var_jinjie" />
     <SUITE FILE_PATH="coverage/awesome_python3_webapp$yd_03_setmode.coverage" NAME="yd_03_setmode Coverage Results" MODIFIED="1564052570273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_www/game_fly/test_pygame" />
@@ -115,12 +103,12 @@
     <session id="-1755938878">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="47" />
+          <entry key="project.closed" value="51" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.19" value="2" />
-          <entry key="project.open.time.20" value="13" />
-          <entry key="project.open.time.21" value="7" />
-          <entry key="project.open.time.22" value="8" />
+          <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.20" value="14" />
+          <entry key="project.open.time.21" value="8" />
+          <entry key="project.open.time.22" value="9" />
           <entry key="project.open.time.23" value="5" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.25" value="2" />
@@ -129,6 +117,7 @@
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.55" value="1" />
@@ -137,7 +126,7 @@
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.84" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="56" />
+          <entry key="project.opened" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -151,21 +140,21 @@
           <entry key="README" value="4" />
           <entry key="README[复件]" value="2" />
           <entry key="conf" value="3" />
-          <entry key="html" value="17" />
+          <entry key="html" value="18" />
           <entry key="js" value="4" />
           <entry key="png" value="5" />
-          <entry key="py" value="207" />
+          <entry key="py" value="219" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="17" />
+          <entry key="HTML" value="18" />
           <entry key="Image" value="5" />
           <entry key="JavaScript" value="4" />
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="207" />
+          <entry key="Python" value="219" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -174,15 +163,15 @@
           <entry key="conf" value="62" />
           <entry key="dummy" value="78" />
           <entry key="html" value="91" />
-          <entry key="py" value="52866" />
-          <entry key="txt" value="201" />
+          <entry key="py" value="54780" />
+          <entry key="txt" value="248" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="91" />
-          <entry key="PLAIN_TEXT" value="409" />
-          <entry key="Python" value="52864" />
+          <entry key="PLAIN_TEXT" value="456" />
+          <entry key="Python" value="54778" />
           <entry key="SQL" value="2" />
         </counts>
       </usages-collector>
@@ -191,19 +180,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/logging_test.py">
+        <entry file="file://$PROJECT_DIR$/improve/mysql_database/orm_数据库对象操作/orm_realize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            <state relative-caret-position="902">
+              <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/log.txt">
+        <entry file="file://$PROJECT_DIR$/ttst.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="44">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -229,6 +218,9 @@
       <replace>utf8</replace>
       <replace>td</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -242,9 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/improve/network/process_tasks/02-多进程间通过queue来实现进程之间的通信.py" />
-        <option value="$PROJECT_DIR$/improve/network/process_tasks/03-进程池.py" />
-        <option value="$PROJECT_DIR$/improve/network/process_tasks/05-迭代器.py" />
         <option value="$PROJECT_DIR$/improve/network/process_tasks/0-迭代器2.py" />
         <option value="$PROJECT_DIR$/improve/network/process_tasks/fab那契函数.py" />
         <option value="$PROJECT_DIR$/improve/network/process_tasks/01-生成器.py" />
@@ -290,9 +279,12 @@
         <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/02-web服务器里集成了解析动态请求的功能.py" />
         <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/templates/center.html" />
         <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/templates/index.html" />
-        <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/wsgi_mini_frame.py" />
         <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/logging.py" />
         <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/logging_test.py" />
+        <option value="$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/wsgi_mini_frame.py" />
+        <option value="$PROJECT_DIR$/improve/gaojiyufa/yuanlei.py" />
+        <option value="$PROJECT_DIR$/improve/mysql_database/orm_数据库对象操作/orm_realize.py" />
+        <option value="$PROJECT_DIR$/ttst.py" />
       </list>
     </option>
   </component>
@@ -316,6 +308,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="awesome-python3-webapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="awesome-python3-webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -332,43 +335,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="awesome-python3-webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="awesome-python3-webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="awesome-python3-webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="awesome-python3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="improve" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="awesome-python3-webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="awesome-python3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="improve" type="462c0819:PsiDirectoryNode" />
-              <item name="network" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="awesome-python3-webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="awesome-python3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="improve" type="462c0819:PsiDirectoryNode" />
-              <item name="network" type="462c0819:PsiDirectoryNode" />
-              <item name="httpweb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="awesome-python3-webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="awesome-python3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="improve" type="462c0819:PsiDirectoryNode" />
-              <item name="network" type="462c0819:PsiDirectoryNode" />
-              <item name="httpweb" type="462c0819:PsiDirectoryNode" />
-              <item name="wsgi" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -377,7 +343,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/improve/network/httpweb/wsgi" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/improve/network/httpweb/wsgi" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -413,29 +379,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.logging">
-    <configuration name="02-带有参数的装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="awesome-python3-webapp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/gaojiyufa/zhuangshiqi" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/gaojiyufa/zhuangshiqi/02-带有参数的装饰器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.orm_realize">
     <configuration name="02-web服务器里集成了解析动态请求的功能" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="awesome-python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -480,28 +424,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_zhuangshiqi" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="awesome-python3-webapp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/gaojiyufa/zhuangshiqi" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/gaojiyufa/zhuangshiqi/class_zhuangshiqi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="logging" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="awesome-python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -516,6 +438,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="E:\ZWorkProject\python_pro\workspace\learn\awesome-python3-webapp\improve\network\httpweb\wsgi\logging_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="orm_realize" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="awesome-python3-webapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/mysql_database/orm_数据库对象操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/mysql_database/orm_数据库对象操作/orm_realize.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -546,20 +490,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="yuanlei" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="awesome-python3-webapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/improve/gaojiyufa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/improve/gaojiyufa/yuanlei.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.class_zhuangshiqi" />
       <item itemvalue="Python.test_zhuangshiqi" />
-      <item itemvalue="Python.02-带有参数的装饰器" />
       <item itemvalue="Python.02-web服务器里集成了解析动态请求的功能" />
       <item itemvalue="Python.logging" />
+      <item itemvalue="Python.yuanlei" />
+      <item itemvalue="Python.orm_realize" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.orm_realize" />
+        <item itemvalue="Python.yuanlei" />
         <item itemvalue="Python.logging" />
         <item itemvalue="Python.02-web服务器里集成了解析动态请求的功能" />
         <item itemvalue="Python.test_zhuangshiqi" />
-        <item itemvalue="Python.02-带有参数的装饰器" />
-        <item itemvalue="Python.class_zhuangshiqi" />
       </list>
     </recent_temporary>
   </component>
@@ -700,7 +666,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566535790150</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="web服务器增删改查 日志">
+      <created>1567070981406</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1567070981406</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -724,12 +697,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26742628" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21514745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49597856" visible="true" weight="0.34844193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49597856" visible="true" weight="0.34844193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30311614" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -740,7 +713,8 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50402147" side_tool="true" weight="0.34844193" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32881355" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3277027" />
-      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.4966488" weight="0.26770538" />
+      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.4966488" visible="true" weight="0.26770538" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -756,6 +730,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="提交测试1" />
     <MESSAGE value="提交测试2" />
     <MESSAGE value="提交测试3" />
@@ -767,7 +742,8 @@
     <MESSAGE value="协程" />
     <MESSAGE value="单进程单线程，使用epoll模式开发网站" />
     <MESSAGE value="wsgi服务器的python实现 wsgi_mini_frame:application" />
-    <option name="LAST_COMMIT_MESSAGE" value="wsgi服务器的python实现 wsgi_mini_frame:application" />
+    <MESSAGE value="web服务器增删改查 日志" />
+    <option name="LAST_COMMIT_MESSAGE" value="web服务器增删改查 日志" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -796,23 +772,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/01-http返回固定html页面.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/03-多线程完成http服务器.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/process_tasks/01-gevent多任务练习.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/improve/network/process_tasks/02-greenlet替换yield.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
@@ -840,9 +799,6 @@
           <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3rdparty.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/improve/network/yd_08_使用互斥所解决资源竞争的问题.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -924,13 +880,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1512347166/-1506120977/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -959,13 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
           <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/gaojiyufa/bibao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -1025,20 +967,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/improve/mysql_database/02-面向对象思想来实现.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/improve/mysql_database/01-connectdatabase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-418">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/mini_frame.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="35">
@@ -1070,13 +998,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/mini_frame.py" />
-    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/02-web服务器里集成了解析动态请求的功能.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-264">
@@ -1098,27 +1019,85 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/dynamic/wsgi_mini_frame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="868">
-          <caret line="154" column="34" lean-forward="true" selection-start-line="154" selection-start-column="34" selection-end-line="154" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="308">
+          <caret line="167" column="36" lean-forward="true" selection-start-line="167" selection-start-column="36" selection-end-line="167" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/logging_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        <state relative-caret-position="286">
+          <caret line="13" column="83" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/log.txt">
+    <entry file="file://$PROJECT_DIR$/improve/network/httpweb/wsgi/02-web服务器里集成了解析动态请求的功能.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="253">
+          <caret line="114" column="17" lean-forward="true" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/mysql_database/02-面向对象思想来实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/mysql_database/01-connectdatabase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/gaojiyufa/bibao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/gaojiyufa/yuanlei.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1512347166/-1506120977/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3rdparty.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/improve/mysql_database/orm_数据库对象操作/orm_realize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ttst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="3" />
         </state>
       </provider>
     </entry>
