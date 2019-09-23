@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@192.168.208.3:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="root@192.168.208.3:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/awesome-python3-webapp/django/test4" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
