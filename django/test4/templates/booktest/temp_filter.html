@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load filters %}
+<head>
+    <meta charset="UTF-8">
+    <title>模板标签</title>
+</head>
+<body>
+图书标题：
+<ul>
+    {% for book in books %}
+        {% if book.id|mod %}
+            <li style="color: red;">{{ forloop.counter }}--{{ book.btitle }}--{{ book.bpub_date|date:"Y年 m月 j日" }}</li>
+        {% else %}
+            <li>{{ forloop.counter }}--{{ book.btitle }}--{{ book.bpub_date|date:"Y年 m月 j日" }}</li>
+        {% endif %}
+    {% endfor %}
+
+
+
+</ul>
+default过滤器 <br>
+{{ content|default:'默认值' }}
+</body>
+</html>

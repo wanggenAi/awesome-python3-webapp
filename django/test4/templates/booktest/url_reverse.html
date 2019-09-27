@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>url反向解析</title>
+</head>
+<body>
+<a href="/index">首页</a> <br>
+根据需求，动态的生成首页链接：<br>
+<a href="{% url 'booktest:index' %}">首页</a> <br>
+动态生成带参数的链接地址: <br>
+<a href="{% url 'booktest:show_args' 3 4 %}">/show_args/3/4</a> <br>
+动态生成关键字参数的链接地址：<br>
+<a href="{% url 'booktest:show_kwargs' num1=12 num2=4 %}">地址</a>
+</body>
+</html>

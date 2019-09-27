@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>省市县显示案例</title>
+    <script src="/static/js/jquery-1.12.4.min.js"></script>
+    <script>
+        $(function () {
+            //发起ajax请求，获取所有省级地区的信息
+            $.get('/prov',function (data) {
+                var res = data.prov
+                /*for (var i =0;i<res.length;i++){
+                    prov = res[i]
+                    $('#prov').append("<option value='"+prov[0]+"'>"+prov[1]+"</option>")
+                }*/
+                $.each(res,function (index,prov) {
+                    var aid = prov[0]
+                    var atitle = prov[1]
+                    $('#prov').append("<option value='"+aid+"'>"+atitle+"</option>")
+                })
+
+            })
+
+            // 绑定prov下拉列表的change事件，获取省下面的市的信息
+            $('#prov').change(function () {
+                //首先清空市以及县的下拉列表
+                $('#city').empty()
+                $('#dis').empty()
+                // 发起一个ajax请求 /city ,获取省下面的市的信息
+                prov_id = $(this).val()
+                $.get('/city'+prov_id, function (data) {
+                    //回调函数
+                    var city = data.city
+                    $('#city').append("<option>---请选择市---</option>")
+                    $('#dis').append("<option>---请选择县---</option>")
+                    $.each(city, function (i, c) {
+                        $('#city').append("<option value='"+c[0]+"'>"+c[1]+"</option>")
+                    })
+                })
+            })
+
+            $('#city').change(function () {
+                $('#dis').empty()
+                cid = $(this).val()
+                $.get('/dis?id='+cid, function (data) {
+                    var dis = data.dis
+                    $('#dis').append("<option>---请选择县---</option>")
+                    $.each(dis, function(i,d){
+                        $('#dis').append("<option value='"+d[0]+"'>"+d[1]+"</option>")
+                    })
+                })
+            })
+        })
+    </script>
+</head>
+<body>
+<select name="" id="prov">
+    <option>---请选择省---</option>
+</select>
+<select name="" id="city">
+    <option>---请选择市---</option>
+</select>
+<select name="" id="dis">
+    <option>---请选择县---</option>
+</select>
+</body>
+</html>
